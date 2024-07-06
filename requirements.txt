@@ -14,7 +14,7 @@ aiofiles==23.2.1
     # via actions-python-core
 anyio==4.0.0
     # via httpcore
-certifi==2023.7.22
+certifi==2024.7.4
     # via
     #   httpcore
     #   httpx
